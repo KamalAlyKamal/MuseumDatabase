@@ -1,0 +1,83 @@
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.WindowsFormsApplication5.exe.config
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Data.dll
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.dll
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Fabric.Plugin.dll
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Data.xml
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\ahmed osman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Data.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Data.xml
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.WindowsFormsApplication5.exe.config
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Exhibits.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Profile.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Welcome.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsPainting.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsHistoricalDocuments.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsJewelery.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsOldMusicalInstruments.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsTextiles.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Display.ExhibitMuseumStatistics.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FunctionsCEO.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.salesfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.internalsuppliesfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsWeaponsandAmmunition.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.WindowsFormsApplication5.exe.config
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Display.ExhibitMuseumStatistics.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Display.Suppliers.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FunctionsCEO.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsHistoricalDocuments.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Exhibits.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsJewelery.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsOldMusicalInstruments.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Profile.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Welcome.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsPainting.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsTextiles.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.FunctionsWeaponsandAmmunition.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.internalsuppliesfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.salesfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Data.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Data.xml
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.suppliersfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.workers.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.Hostricalequipments.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.logo.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.sculptfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Display.InternalSuppliesDisplay.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Display.Salesdisplay.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.fossilfunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.Researchffunc.resources
+C:\Users\Ahmed\Desktop\2016\DBMS\PROJECT\VS\backup 3 3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Functions.Form1.resources
